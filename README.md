@@ -12,7 +12,7 @@ A simple React Todo App where you can add, edit, and delete tasks.
 
 1. Clone the repository:
    ```sh
-   git clone https://github.com/yourusername/todo-app.git
+   git clone https://github.com/Ebrardemir/todo-app.git
    cd todo-app
 2. Install dependencies:
 npm install
